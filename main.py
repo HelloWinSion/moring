@@ -14,8 +14,8 @@ birthday = os.environ['BIRTHDAY']
 app_id = os.environ["wx39866204ce5b8f3c"]
 app_secret = os.environ["a4fc9d0bc475e4d2a1e7c7b3d58c1996"]
 
-user_id = os.environ["USER_ID"]
-template_id = os.environ["TEMPLATE_ID"]
+user_id = os.environ["oVH9v53UH_veyLeunitILr6v7-sA"]
+template_id = os.environ["I1zvHn4mjB4LrYKdyaoFsle6-v4_t4fFifo3MrfYoCA"]
 
 
 def get_weather():
